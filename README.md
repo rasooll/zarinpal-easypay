@@ -49,13 +49,13 @@ sudo nano /etc/apache2/sites-enabled/zarinpal-easypay.conf
 <p>سپس تنظیمات زیر را در آن وارد می‌کنیم:</p>
     
 ```
-        <VirtualHost *:80>
-            ProxyPreserveHost On
-            ProxyPass / http://0.0.0.0:8080/
-            ProxyPassReverse / http://0.0.0.0:8080/
-            ServerName YourDomain.com
-            ServerAlias www.YourDomain.com
-        </VirtualHost>
+<VirtualHost *:80>
+    ProxyPreserveHost On
+    ProxyPass / http://0.0.0.0:8080/
+    ProxyPassReverse / http://0.0.0.0:8080/
+    ServerName YourDomain.com
+    ServerAlias www.YourDomain.com
+</VirtualHost>
 ```
 <p>سپس با کلید های Ctrl+X پ دس از آن Y فایل را ذخیره می‌کنیم.</p>
 
