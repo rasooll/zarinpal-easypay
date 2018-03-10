@@ -1,5 +1,5 @@
 
-    <div style='direction: rtl;text-align: right;font-family: 'Vazir' !important;'>
+    <div dir='rtl' align='right'>
         <h3>اسکریپت پایتون آسان پرداخت برای زرین پال</h3>
         <p>این اسکریپت با استفاده از پایتون ۳ و فریم ورک Bottle ساخته شده است.</p>
         <h4>پیشنیازها:</h4>
