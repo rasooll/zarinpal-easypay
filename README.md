@@ -59,7 +59,7 @@ sudo nano /etc/apache2/sites-enabled/zarinpal-easypay.conf
     ServerAlias www.YourDomain.com
 </VirtualHost>
 ```
-<p>سپس با کلید های Ctrl+X پ دس از آن Y فایل را ذخیره می‌کنیم.</p>
+<p>سپس با کلید های Ctrl+X و پس از آن Y فایل را ذخیره می‌کنیم.</p>
 
 ```
 sudo systemctl reload apache2
