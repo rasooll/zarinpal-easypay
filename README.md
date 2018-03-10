@@ -65,7 +65,7 @@ sudo nano /etc/apache2/sites-enabled/zarinpal-easypay.conf
 sudo systemctl reload apache2
 ```
 
-<p>حال با استفاده از آدرس زیر به اسکریپت درسترسی داریم:</p>
+<p>حال با استفاده از آدرس زیر به اسکریپت دسترسی داریم:</p>
 
 ```
 http://YourDomain.com
