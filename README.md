@@ -1,20 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://cdn.rawgit.com/rastikerdar/vazir-font/v18.0.0/dist/font-face.css" rel="stylesheet" type="text/css" />
-    <style>
-        .body{
-            direction: rtl;
-            text-align: right;
-            font-family: 'Vazir' !important;
-        }
-    </style>
 </head>
 <body>
-    <div class="body">
+    <div style='direction: rtl;text-align: right;font-family: 'Vazir' !important;'>
         <h3>اسکریپت پایتون آسان پرداخت برای زرین پال</h3>
         <p>این اسکریپت با استفاده از پایتون ۳ و فریم ورک Bottle ساخته شده است.</p>
         <h4>پیشنیازها:</h4>
